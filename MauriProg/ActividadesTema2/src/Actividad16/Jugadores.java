@@ -46,7 +46,6 @@ public class Jugadores {
         casillaActual = casillaActual + numeroCasillasAvance;
         Movimientos avance = new Movimientos(casillaActual, "Avance ");
         historialMovimientos.addLast(avance);
-        redoUndo = new LinkedList();
     }
 
     public void retrocederCasillas(int numeroCasillasRetrocedidas){
