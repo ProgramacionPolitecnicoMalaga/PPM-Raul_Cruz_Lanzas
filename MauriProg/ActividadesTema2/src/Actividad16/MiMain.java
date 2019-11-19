@@ -7,6 +7,7 @@ public class MiMain {
         jugador1.avanzarCasillas(4);
         jugador1.avanzarCasillas(6);
         jugador1.avanzarCasillas(3);
+        jugador1.avanzarCasillas(10);
         jugador1.historial();
         System.out.println("------------------------");
         jugador1.undo();
@@ -15,9 +16,10 @@ public class MiMain {
         jugador1.historial();
         System.out.println("------------------------");
         jugador1.undo();
+        jugador1.undo();
         jugador1.historial();
         System.out.println("------------------------");
-        jugador1.avanzarCasillas(3);
+        jugador1.avanzarCasillas(4);
         jugador1.historial();
         System.out.println("------------------------");
         jugador1.undo();
@@ -26,7 +28,7 @@ public class MiMain {
         jugador1.redo();
         jugador1.historial();
         System.out.println("-------------------------");
-        jugador1.retrocederCasillas(3);
+        jugador1.retrocederCasillas(2);
         jugador1.historial();
         System.out.println("-------------------------");
         jugador1.redo();

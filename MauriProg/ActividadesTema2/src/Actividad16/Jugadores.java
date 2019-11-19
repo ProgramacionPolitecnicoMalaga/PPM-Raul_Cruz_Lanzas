@@ -44,14 +44,14 @@ public class Jugadores {
 
     public void avanzarCasillas(int numeroCasillasAvance){
         casillaActual = casillaActual + numeroCasillasAvance;
-        Movimientos avance = new Movimientos(casillaActual, "Avance");
+        Movimientos avance = new Movimientos(casillaActual, "Avance ");
         historialMovimientos.addLast(avance);
         redoUndo = new LinkedList();
     }
 
     public void retrocederCasillas(int numeroCasillasRetrocedidas){
         casillaActual = numeroCasillasRetrocedidas;
-        Movimientos retroceso = new Movimientos(casillaActual, "Retroceso");
+        Movimientos retroceso = new Movimientos(casillaActual, "Retroceso ");
         historialMovimientos.addLast(retroceso);
     }
 
@@ -84,7 +84,7 @@ public class Jugadores {
             casillaActual = movimientos.getNumeroCasilla();
             redoUndo.removeLast();
         }else{
-            System.out.println("No tienes movimientos para rehacer");
+            System.out.println("No tienes mas movimientos para rehacer");
         }
     }
 }
