@@ -1,12 +1,22 @@
 public class Cuadrados extends FigurasGeometricas{
     private double lado;
 
-    public Cuadrados(String nombreTipo, String color, double lado){
-        super(nombreTipo, color);
+    public Cuadrados(String color, double lado){
+        super(color);
         this.lado = lado;
     }
 
-    public double getArea(){
-        return lado * lado;
+    public void calcularArea(){
+        double area = lado * lado;
+        setArea(area);
+    }
+
+    @Override
+    public String toString() {
+        return "Cuadrados{" +
+                "lado=" + lado +
+                ", color='" + color + '\'' +
+                ", area=" + area +
+                '}';
     }
 }

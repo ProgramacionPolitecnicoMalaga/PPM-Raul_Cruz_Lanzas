@@ -1,19 +1,27 @@
-public abstract class FigurasGeometricas {
+public abstract class FigurasGeometricas implements Area{
     String color;
-    String nombreTipo;
+    double area;
 
-    public FigurasGeometricas(String nombreTipo, String color) {
-        this.nombreTipo = nombreTipo;
+    public FigurasGeometricas(String color) {
         this.color = color;
     }
 
-    public abstract double getArea();
+    public double getArea() {
+        return area;
+    }
+
+    public void setArea(double area) {
+        this.area = area;
+    }
 
     @Override
     public String toString() {
         return "FigurasGeometricas{" +
                 "color='" + color + '\'' +
-                ", nombreTipo='" + nombreTipo + '\'' +
                 '}';
+    }
+
+    @Override
+    public void calcularArea() {
     }
 }

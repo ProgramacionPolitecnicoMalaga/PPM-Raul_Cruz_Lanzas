@@ -2,13 +2,24 @@ public class Triangulos extends FigurasGeometricas {
     private double base;
     private double altura;
 
-    public Triangulos(String nombreTipo, String color, double base, double altura){
-        super(nombreTipo, color);
+    public Triangulos(String color, double base, double altura){
+        super(color);
         this.base = base;
         this.altura = altura;
     }
 
-    public double getArea(){
-        return (base * altura) / 2;
+    public void calcularArea(){
+        double area = (base * altura) / 2;
+        setArea(area);
+    }
+
+    @Override
+    public String toString() {
+        return "Triangulos{" +
+                "base=" + base +
+                ", altura=" + altura +
+                ", color='" + color + '\'' +
+                ", area=" + area +
+                '}';
     }
 }
