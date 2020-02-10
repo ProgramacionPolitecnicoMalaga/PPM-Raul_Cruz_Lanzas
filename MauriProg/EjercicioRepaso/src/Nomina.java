@@ -1,5 +1,5 @@
-public class SueldoBase {
-   public SueldoBase(){
-
+public class Nomina {
+   public Nomina(){
+      Nomina = (CategoriaEmpleado * productividad) +
    }
 }

@@ -29,7 +29,7 @@ public class Interfaz {
     public Interfaz(){
         ListaEmpleadoTarea listaEmpleadoTarea = new ListaEmpleadoTarea();
 
-        ArchivoXML archivoXML = new ArchivoXML("files/empleados.xml", "empleado");
+        ArchivoXML archivoXML = new ArchivoXML("empleados.xml", "empleado");
         NodeList nodeList = archivoXML.ObtenerListaNodos();
         for(int i=0; i < nodeList.getLength(); i++){
             Node miNodoActual = nodeList.item(i);
@@ -45,7 +45,7 @@ public class Interfaz {
             comboEmpleados.addItem(empleado2);
         }
 
-        ArchivoXML archivoXML1 = new ArchivoXML("files/proyectos.xml", "proyecto");
+        ArchivoXML archivoXML1 = new ArchivoXML("proyectos.xml", "proyecto");
         NodeList nodeList1 = archivoXML1.ObtenerListaNodos();
         for(int i=0; i < nodeList1.getLength(); i++){
             Node miNodoActual = nodeList.item(i);

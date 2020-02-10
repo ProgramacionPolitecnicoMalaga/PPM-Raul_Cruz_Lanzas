@@ -1,18 +1,17 @@
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Date;
+import java.time.LocalDate;
 
 public class Tarea {
     private Categoria categoria;
     private String descripcion;
-    private Date fechaLimite;
+    private LocalDate fechaLimite;
     private boolean terminada;
 
-    public Tarea(String descripcion, Date fechaLimite) {
+    public Tarea(String descripcion, LocalDate fechaLimite, Categoria categoria) {
         this.descripcion = descripcion;
         this.fechaLimite = fechaLimite;
         terminada = false;
-        categoria = new Categoria("Todas");
+        this.categoria = categoria;
     }
 
     @Override
@@ -24,7 +23,7 @@ public class Tarea {
         return categoria;
     }
 
-    public Date getFechaLimite() {
+    public LocalDate getFechaLimite() {
         return fechaLimite;
     }
 

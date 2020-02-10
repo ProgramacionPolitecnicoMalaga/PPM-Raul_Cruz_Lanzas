@@ -1,7 +1,0 @@
-<empleados>
-    <empleado nombre="Raul" apellidos="Cruz Lanzas" DNI="24343232D" productividad="1.5" categoria="1"/>
-    <empleado nombre="Alberto" apellidos="Gandoy" DNI="12345678Y" productividad="2.5" categoria="2"/>
-    <empleado nombre="Jorge" apellidos="Rios" DNI="87654321W" productividad="3.0" categoria="3"/>
-    <empleado nombre="Mario" apellidos="Sanchez" DNI="98989898M" productividad="4.5" categoria="4"/>
-    <empleado nombre="Maria" apellidos="Reina" DNI="25652565J" productividad="7.0" categoria="5"/>
-</empleados>
