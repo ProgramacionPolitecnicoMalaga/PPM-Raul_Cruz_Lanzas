@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Importar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Importar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/Importar" recursive="false" />
+  </library>
+</component>
