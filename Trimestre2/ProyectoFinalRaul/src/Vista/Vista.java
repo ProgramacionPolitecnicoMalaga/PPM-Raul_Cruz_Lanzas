@@ -1,6 +1,6 @@
 package Vista;
 
-import Modelo.Credencial;
+import Modelo.Usuario;
 
 import javax.swing.*;
 import java.awt.*;
@@ -9,7 +9,7 @@ import java.awt.event.ComponentAdapter;
 import java.awt.event.ComponentEvent;
 import java.util.ArrayList;
 
-public class Principal extends JFrame {
+public class Vista extends JFrame {
     private JPanel panel;
     private JList listNombres;
     private JButton butRegistrar;
@@ -18,10 +18,10 @@ public class Principal extends JFrame {
     private JList listDatos;
     private JButton butCargar;
     private UsuarioPanel usuarioPanel;
-    private DefaultListModel<Credencial> defaultListModelDatos;
+    private DefaultListModel<Usuario> defaultListModelDatos;
     private DefaultListModel<String> defaultListModelNombres;
 
-    public Principal(){
+    public Vista(){
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         add(panel);
         defaultListModelDatos = new DefaultListModel<>();
@@ -63,20 +63,21 @@ public class Principal extends JFrame {
         usuarioPanel.setLabelsPassword(resultado);
 
     }
-    public void cargarDatosUsuario(Credencial usuario) {
+    public void cargarDatosUsuario(Usuario usuario) {
         defaultListModelDatos.removeAllElements();
         defaultListModelDatos.addElement(usuario);
+        setLabelsPaneIcon(!usuario.isBloqueado());
     }
 
-    public void cargarTodosLosDatos(ArrayList<Credencial> usuarios) {
+    public void cargarUsuarios(ArrayList<Usuario> usuarios) {
         defaultListModelDatos.removeAllElements();
         defaultListModelNombres.removeAllElements();
-        for (Credencial usuario : usuarios) {
+        for (Usuario usuario : usuarios) {
             defaultListModelNombres.addElement(usuario.getNombre());
         }
     }
 
-    public String getdataSelectedNick() {
+    public String getdataSelectedNombre() {
         return listNombres.getSelectedValue().toString();
     }
 

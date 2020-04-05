@@ -1,16 +1,16 @@
 package Main;
 
-import ControladorGeneralConsultas.ControladorConsultas;
-import Vista.Principal;
-import Vista.VistaControlador;
+import DAO.ConsultasUsuario;
+import Vista.Vista;
+import Vista.ControladorVista;
 import java.awt.event.ActionListener;
 import java.sql.SQLException;
 
 public class Aplicacion {
     public static void main(String[] args) throws SQLException {
-        Principal principal = new Principal();
-        ActionListener controlador = new VistaControlador(new ControladorConsultas(), principal);
-        principal.setActionListenerControlador(controlador);
-        principal.iniciarVista();
+        Vista vista = new Vista();
+        ActionListener controlador = new ControladorVista(new ConsultasUsuario(), vista);
+        vista.setActionListenerControlador(controlador);
+        vista.iniciarVista();
     }
 }

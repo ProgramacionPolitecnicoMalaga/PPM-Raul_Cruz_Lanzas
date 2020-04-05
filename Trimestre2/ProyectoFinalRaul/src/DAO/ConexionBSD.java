@@ -5,10 +5,18 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class ConexionBSD {
-    public Connection conectar() throws SQLException {
-        String url = "jdbc:mysql://51.68.123.197:3306/Validados";
-        String user = "usuarioBD";
-        String pass = "qwerty98";
-        return DriverManager.getConnection(url,user, pass);
+    public static Connection conexionBD() {
+        Connection con = null;
+
+        try {
+            con = DriverManager.getConnection("jdbc:mysql://51.68.123.197:3306/Validados", "usuarioBD", "qwerty98");
+            if (con != null) {
+                System.out.println("Conexión establecida");
+            }
+        } catch (SQLException e) {
+            System.out.println("Fallo en la conexión");
+            e.printStackTrace();
+        }
+        return con;
     }
 }

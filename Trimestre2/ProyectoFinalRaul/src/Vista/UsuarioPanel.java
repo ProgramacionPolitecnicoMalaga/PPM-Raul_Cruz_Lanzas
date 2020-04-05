@@ -1,12 +1,13 @@
 package Vista;
 
-import Modelo.Credencial;
+import Modelo.Usuario;
+
 import javax.swing.*;
 import javax.swing.border.Border;
 import javax.swing.border.EmptyBorder;
 import java.awt.*;
 
-public class UsuarioPanel extends JPanel implements ListCellRenderer <Credencial> {
+public class UsuarioPanel extends JPanel implements ListCellRenderer<Usuario> {
     private JLabel lblPassword;
     private JLabel lblNombre;
     private JLabel lblAlgoritmo;
@@ -65,10 +66,10 @@ public class UsuarioPanel extends JPanel implements ListCellRenderer <Credencial
     }
 
     @Override
-    public Component getListCellRendererComponent(JList<? extends Credencial> jList, Credencial usuario, int i, boolean isSelected, boolean cellHasFocus) {
+    public Component getListCellRendererComponent(JList<? extends Usuario> jList, Usuario usuario, int i, boolean isSelected, boolean cellHasFocus) {
         lblNombre.setText("Nombre: "+usuario.getNombre());
-        lblHash.setText("Hash: "+usuario.getHash());
-        lblPassword.setText("Contraseña: "+ DialogoRegistrar.clave);
+        lblHash.setText("Hash: "+usuario.getContraseña());
+        lblPassword.setText("Contraseña: "+ DialogoRegistrar.constraseña);
         lblAlgoritmo.setText("Algoritmo: " + usuario.getAlgoritmo());
 
         if (isSelected) {

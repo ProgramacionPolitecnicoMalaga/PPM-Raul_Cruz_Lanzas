@@ -11,14 +11,13 @@ public class DialogoRegistrar extends JDialog {
     private JButton butOk;
     private JButton butCancelar;
     private DataTransfer dataTransfer;
-    public static String clave;
+    public static String constraseña;
 
     public DialogoRegistrar(DataTransfer dataTransfer){
         this.dataTransfer = dataTransfer;
         setContentPane(panelMain);
         setModal(true);
         getRootPane().setDefaultButton(butOk);
-        cmbAlgoritmo.addItem("SHA");
         cmbAlgoritmo.addItem("BCrypt");
         cmbAlgoritmo.addItem("MD5");
 
@@ -56,8 +55,8 @@ public class DialogoRegistrar extends JDialog {
     private void onOK() {
         dataTransfer.setDato("nombre",txtNombre.getText());
         char[] array = txtPassword.getPassword();
-        clave = new String(array);
-        dataTransfer.setDato("clave",clave);
+        constraseña = new String(array);
+        dataTransfer.setDato("clave",constraseña);
         dataTransfer.setDato("algoritmo",cmbAlgoritmo.getSelectedItem().toString());
         dispose();
     }

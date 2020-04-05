@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e81a99e3-74c0-46ab-b671-d4b62a871755" name="Default Changelist" comment="" />
+    <list default="true" id="e81a99e3-74c0-46ab-b671-d4b62a871755" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAO/UsuarioDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/ControladorGeneralConsultas/ControladorConsultas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/DAO/ConexionBSD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/DAO/ConexionBSD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/DAO/Consulta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Encriptar/Algoritmo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Encriptar/BcCry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Encriptar/Encriptar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Encriptar/MD5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Main/Aplicacion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Main/Aplicacion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Modelo/Credencial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/Principal$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/Principal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/UsuarioPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/UsuarioPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/VistaControlador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControladorGeneralConsultas/ControladorConsultas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAO/ConexionBSD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/ConexionBSD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAO/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/ConsultasUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Encriptar/Algoritmo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algoritmos/Algoritmo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Encriptar/BcCry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algoritmos/BcCry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Encriptar/Encriptar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algoritmos/Encriptador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Encriptar/MD5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algoritmos/MD5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Aplicacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Aplicacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modelo/Credencial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modelo/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vista/DialogoRegistrar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vista/DialogoRegistrar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vista/Principal.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vista/Vista.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vista/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vista/Vista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vista/UsuarioPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vista/UsuarioPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vista/VistaControlador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vista/ControladorVista.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,16 +47,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1516247220">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main/Aplicacion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+            <state relative-caret-position="119">
+              <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -28,84 +76,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ControladorGeneralConsultas/ControladorConsultas.java">
+        <entry file="file://$PROJECT_DIR$/src/Algoritmos/Algoritmo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-              <folding>
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-                <element signature="e#875#876#0" expanded="true" />
-                <element signature="e#901#902#0" expanded="true" />
-                <element signature="e#1021#1022#0" expanded="true" />
-                <element signature="e#1062#1063#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Vista/VistaControlador.java">
+        <entry file="file://$PROJECT_DIR$/src/Algoritmos/BcCry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+            <state relative-caret-position="68">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Vista/UsuarioPanel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Vista/Principal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="79" selection-start-line="79" selection-end-line="79" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1428#1663#0" expanded="true" />
-                <element signature="e#1662#1663#0" expanded="true" />
-                <element signature="e#1823#1824#0" expanded="true" />
-                <element signature="e#1882#1883#0" expanded="true" />
-                <element signature="e#1934#1935#0" expanded="true" />
-                <element signature="e#2002#2003#0" expanded="true" />
-                <element signature="e#2696#2697#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Vista/Principal.form">
-          <provider selected="true" editor-type-id="ui-designer" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Encriptar/Encriptar.java">
+        <entry file="file://$PROJECT_DIR$/src/Vista/ControladorVista.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Vista/DialogoRegistrar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="120">
+              <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,28 +109,64 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Modelo/Credencial.java">
+        <entry file="file://$PROJECT_DIR$/src/Vista/Vista.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="1071">
+              <caret line="74" column="31" selection-start-line="74" selection-start-column="31" selection-end-line="74" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Vista/DataTransfer.java">
+        <entry file="file://$PROJECT_DIR$/src/DAO/ConsultasUsuario.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+              <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DAO/UsuarioDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#158#159#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algoritmos/Encriptador.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algoritmos/MD5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DAO/ConexionBSD.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="11" column="116" selection-start-line="11" selection-start-column="116" selection-end-line="11" selection-end-column="116" />
             </state>
           </provider>
         </entry>
@@ -145,9 +176,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -156,13 +191,23 @@
         <option value="$PROJECT_DIR$/src/Vista/DialogoValidar.form" />
         <option value="$PROJECT_DIR$/src/Vista/DialogoValidar.java" />
         <option value="$PROJECT_DIR$/src/Vista/DataTransfer.java" />
-        <option value="$PROJECT_DIR$/src/Vista/DialogoRegistrar.java" />
-        <option value="$PROJECT_DIR$/src/Vista/UsuarioPanel.java" />
         <option value="$PROJECT_DIR$/src/Vista/Principal.java" />
-        <option value="$PROJECT_DIR$/src/Vista/VistaControlador.java" />
         <option value="$PROJECT_DIR$/src/ControladorGeneralConsultas/ControladorConsultas.java" />
-        <option value="$PROJECT_DIR$/src/Main/Aplicacion.java" />
         <option value="$PROJECT_DIR$/src/Vista/Principal.form" />
+        <option value="$PROJECT_DIR$/src/Vista/VistaControlador.java" />
+        <option value="$PROJECT_DIR$/src/Vista/DialogoRegistrar.java" />
+        <option value="$PROJECT_DIR$/src/Main/Aplicacion.java" />
+        <option value="$PROJECT_DIR$/src/Algoritmos/BcCry.java" />
+        <option value="$PROJECT_DIR$/src/Algoritmos/Algoritmo.java" />
+        <option value="$PROJECT_DIR$/src/Algoritmos/Encriptador.java" />
+        <option value="$PROJECT_DIR$/src/Algoritmos/MD5.java" />
+        <option value="$PROJECT_DIR$/src/Modelo/Usuario.java" />
+        <option value="$PROJECT_DIR$/src/Vista/UsuarioPanel.java" />
+        <option value="$PROJECT_DIR$/src/DAO/ConexionBSD.java" />
+        <option value="$PROJECT_DIR$/src/DAO/UsuarioDAO.java" />
+        <option value="$PROJECT_DIR$/src/Vista/Vista.java" />
+        <option value="$PROJECT_DIR$/src/DAO/ConsultasUsuario.java" />
+        <option value="$PROJECT_DIR$/src/Vista/ControladorVista.java" />
       </list>
     </option>
   </component>
@@ -173,12 +218,13 @@
     <option name="height" value="744" />
   </component>
   <component name="ProjectId" id="1a4v0rRmzgMnbqTOgm0kQM0KZzR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,45 +241,14 @@
               <item name="ProyectoFinalRaul" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProyectoFinalRaul" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ControladorGeneralConsultas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProyectoFinalRaul" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProyectoFinalRaul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProyectoFinalRaul" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProyectoFinalRaul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Modelo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProyectoFinalRaul" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProyectoFinalRaul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Vista" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProyectoFinalRaul" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProyectoFinalRaul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Vista" type="462c0819:PsiDirectoryNode" />
-              <item name="DialogoRegistrar" type="e9f4de52:FormNode" />
-            </path>
-            <path>
-              <item name="ProyectoFinalRaul" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProyectoFinalRaul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Vista" type="462c0819:PsiDirectoryNode" />
-              <item name="Principal" type="e9f4de52:FormNode" />
+              <item name="DAO" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -243,10 +258,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="103" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -295,49 +318,88 @@
       <updated>1586007460657</updated>
       <workItem from="1586007462951" duration="3412000" />
       <workItem from="1586012188355" duration="8636000" />
+      <workItem from="1586021381065" duration="651000" />
+      <workItem from="1586041896308" duration="6532000" />
+      <workItem from="1586093703683" duration="162000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8636000" />
+    <option name="totallyTimeSpent" value="15981000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.3289689" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32242227" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Remote Host" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Remote Host" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Maven Projects" order="10" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Designer" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32242227" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Remote Host" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1245" y="240" key="#com.intellij.ide.util.MemberChooser" timestamp="1586011374356">
@@ -374,81 +436,25 @@
     <state x="1096" y="244" key="run.anything.popup/0.0.1920.1040/-1920.-242.1920.1040@0.0.1920.1040" timestamp="1586010429901" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Vista/DialogoRegistrar.form">
-      <provider selected="true" editor-type-id="ui-designer" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Vista/DialogoValidar.form">
       <provider selected="true" editor-type-id="ui-designer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Vista/UsuarioPanel.form">
-      <provider selected="true" editor-type-id="ui-designer" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vista/UsuarioPanel.form" />
     <entry file="file://$PROJECT_DIR$/ProyectoFinalRaul.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DAO/Consulta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Encriptar/BcCry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Encriptar/MD5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DAO/ConexionBSD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Encriptar/Algoritmo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/ControladorGeneralConsultas/ControladorConsultas.java" />
+    <entry file="file://$PROJECT_DIR$/src/Vista/Vista.form">
+      <provider selected="true" editor-type-id="ui-designer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Vista/DialogoValidar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="51" column="25" lean-forward="true" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+        <state relative-caret-position="400">
+          <caret line="55" column="18" lean-forward="true" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1711#1712#0" expanded="true" />
             <element signature="e#1736#1737#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Vista/DialogoRegistrar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Vista/UsuarioPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -469,74 +475,126 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Modelo/Credencial.java">
+    <entry file="file://$PROJECT_DIR$/src/Vista/UsuarioPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        <state relative-caret-position="1241">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vista/DialogoRegistrar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="771">
+          <caret line="58" column="48" selection-start-line="58" selection-start-column="48" selection-end-line="58" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vista/DialogoRegistrar.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modelo/Usuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Importar/mysql-connector-java-8.0.16 (1).jar!/com/mysql/cj/jdbc/exceptions/SQLError.class">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main/Aplicacion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+        <state relative-caret-position="119">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Vista/VistaControlador.java">
+    <entry file="file://$PROJECT_DIR$/src/Algoritmos/Algoritmo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algoritmos/BcCry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vista/Vista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="74" column="31" selection-start-line="74" selection-start-column="31" selection-end-line="74" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DAO/ConsultasUsuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DAO/UsuarioDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algoritmos/Encriptador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algoritmos/MD5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DAO/ConexionBSD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="116" selection-start-line="11" selection-start-column="116" selection-end-line="11" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vista/ControladorVista.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ControladorGeneralConsultas/ControladorConsultas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-          <folding>
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#875#876#0" expanded="true" />
-            <element signature="e#901#902#0" expanded="true" />
-            <element signature="e#1021#1022#0" expanded="true" />
-            <element signature="e#1062#1063#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Encriptar/Encriptar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Vista/Principal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1428#1663#0" expanded="true" />
-            <element signature="e#1662#1663#0" expanded="true" />
-            <element signature="e#1823#1824#0" expanded="true" />
-            <element signature="e#1882#1883#0" expanded="true" />
-            <element signature="e#1934#1935#0" expanded="true" />
-            <element signature="e#2002#2003#0" expanded="true" />
-            <element signature="e#2696#2697#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Vista/Principal.form">
-      <provider selected="true" editor-type-id="ui-designer" />
     </entry>
   </component>
 </project>
