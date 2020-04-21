@@ -2,42 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e81a99e3-74c0-46ab-b671-d4b62a871755" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAO/UsuarioDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/ControladorGeneralConsultas/ControladorConsultas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/DAO/ConexionBSD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/DAO/ConexionBSD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/DAO/Consulta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Encriptar/Algoritmo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Encriptar/BcCry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Encriptar/Encriptar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Encriptar/MD5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Main/Aplicacion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Main/Aplicacion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Modelo/Credencial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/Principal$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/Principal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/UsuarioPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/UsuarioPanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/VistaControlador.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControladorGeneralConsultas/ControladorConsultas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAO/ConexionBSD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/ConexionBSD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAO/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/ConsultasUsuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Encriptar/Algoritmo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algoritmos/Algoritmo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Encriptar/BcCry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algoritmos/BcCry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Encriptar/Encriptar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algoritmos/Encriptador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Encriptar/MD5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algoritmos/MD5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Aplicacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Aplicacion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modelo/Credencial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modelo/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vista/DialogoRegistrar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vista/DialogoRegistrar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vista/Principal.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vista/Vista.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vista/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vista/Vista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vista/UsuarioPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vista/UsuarioPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vista/VistaControlador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vista/ControladorVista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Algoritmos/Algoritmo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Algoritmos/BcCry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Algoritmos/Encriptador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Algoritmos/MD5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/DAO/ConexionBSD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/DAO/ConsultasUsuario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/DAO/UsuarioDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Main/Aplicacion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Modelo/Usuario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/ControladorVista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DataTransfer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoRegistrar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoValidar$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoValidar$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoValidar$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoValidar$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/DialogoValidar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/UsuarioPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/Vista$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProyectoFinalRaul/Vista/Vista.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,18 +36,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1516247220">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -225,6 +201,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -247,8 +224,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -262,7 +237,7 @@
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="103" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -321,16 +296,17 @@
       <workItem from="1586021381065" duration="651000" />
       <workItem from="1586041896308" duration="6532000" />
       <workItem from="1586093703683" duration="162000" />
+      <workItem from="1587117613106" duration="26000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15981000" />
+    <option name="totallyTimeSpent" value="16007000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27231467" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -397,9 +373,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1245" y="240" key="#com.intellij.ide.util.MemberChooser" timestamp="1586011374356">
