@@ -44,7 +44,7 @@ public class DialogoNuevoServidor extends JDialog {
 
     private void onOk() {
         dataTransfer.ip = txtIP.getText();
-        dataTransfer.coste = txtCoste.getColumns();
+        dataTransfer.coste = Integer.parseInt(txtCoste.getText());
         dispose();
     }
 }

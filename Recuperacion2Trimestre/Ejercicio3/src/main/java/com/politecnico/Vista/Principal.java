@@ -3,6 +3,7 @@ package com.politecnico.Vista;
 import com.politecnico.DataTransfer.DataTransfer;
 
 import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
@@ -22,7 +23,7 @@ public class Principal {
 
     public Principal(){
         listModel = new DefaultListModel<>();
-        listModel2 = new DefaultListModel<>();
+        listModel2 = new DefaultListModel<String>();
         listPrincipal.setModel(listModel);
         listSecundaria.setModel(listModel2);
 
@@ -50,5 +51,35 @@ public class Principal {
                 listModel.removeAllElements();
             }
         });
+
+        butActualizarRack.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                DataTransfer dataTransfer = new DataTransfer();
+                DialogoActualizarRack dialogoActualizarRack = new DialogoActualizarRack(dataTransfer);
+                dialogoActualizarRack.pack();
+                dialogoActualizarRack.setLocationRelativeTo(panelMain);
+                dialogoActualizarRack.setVisible(true);
+                listModel.addElement(dataTransfer.nombre);
+                listModel.addElement(dataTransfer.tipo);
+            }
+        });
+
+        butNuevoServidor.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                DataTransfer dataTransfer = new DataTransfer();
+                DialogoNuevoServidor dialogoNuevoServidor = new DialogoNuevoServidor(dataTransfer);
+                dialogoNuevoServidor.pack();
+                dialogoNuevoServidor.setLocationRelativeTo(panelMain);
+                dialogoNuevoServidor.setVisible(true);
+                listModel2.addElement(dataTransfer.ip);
+                listModel2.addElement(String.valueOf(dataTransfer.coste));
+            }
+        });
+    }
+
+    public Container getPanelMain(){
+        return panelMain;
     }
 }
