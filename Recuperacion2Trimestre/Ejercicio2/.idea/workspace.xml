@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9077d102-da24-4fea-b053-f36968c662c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Recuperacion2Trimestre/DAO/RackDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Recuperacion2Trimestre/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Recuperacion2Trimestre/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Recuperacion2Trimestre/DAO/DBConn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Recuperacion2Trimestre/DAO/DBConn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Trimestre2/ProyectoFinalRaul/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Trimestre2/ProyectoFinalRaul/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -118,7 +112,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="699" />
@@ -247,12 +241,12 @@
       <updated>1589809390232</updated>
       <workItem from="1589809393115" duration="2129000" />
       <workItem from="1589815581277" duration="586000" />
-      <workItem from="1589816402768" duration="1594000" />
+      <workItem from="1589816402768" duration="1628000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4309000" />
+    <option name="totallyTimeSpent" value="4343000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
