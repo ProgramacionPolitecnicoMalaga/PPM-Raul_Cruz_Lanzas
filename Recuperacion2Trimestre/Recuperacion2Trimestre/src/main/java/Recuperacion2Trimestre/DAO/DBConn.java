@@ -8,7 +8,7 @@ import java.sql.SQLException;
 public class DBConn {
     private Connection dbConn;
 
-    public DBConn(String host, String puerto, String nombreDB, String usuario, String passsword) throws SQLException {
+    public DBConn() throws SQLException {
         StringBuilder url = new StringBuilder();
         url.append("jdbc:mysql://")
                 .append(host)
