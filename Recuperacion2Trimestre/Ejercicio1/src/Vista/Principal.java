@@ -18,8 +18,9 @@ public class Principal {
         butCalcular.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                for(int i=0; i<tamaño; i++){
-                    System.out.println(listFibonacci);
+                int n;
+                if(n>1){
+
                 }
             }
         });
