@@ -1,5 +1,7 @@
 package Modelo;
 
+import Strategy.DeseoNiño;
+
 public class Niño {
     private String nombre;
     private String deseo;
@@ -22,5 +24,10 @@ public class Niño {
                 "nombre='" + nombre + '\'' +
                 ", deseo='" + deseo + '\'' +
                 '}';
+    }
+
+    public String conseguirDeseo(int intento) {
+        DeseoNiño deseoNiño = SelectorDeseoNiño.getSelectorDeseoNiño(intento);
+        return deseoNiño.intento(deseo);
     }
 }
