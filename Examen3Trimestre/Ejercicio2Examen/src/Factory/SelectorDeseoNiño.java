@@ -1,5 +1,10 @@
 package Factory;
 
-public interface SelectorDeseoNiño {
-    
+public class SelectorDeseoNiño {
+
+    public static SelectorDeseoNiño getSelectorDeseoNiño(int deseo){
+        switch (deseo){
+            case SelectorDeseoNiño.
+        }
+    }
 }
