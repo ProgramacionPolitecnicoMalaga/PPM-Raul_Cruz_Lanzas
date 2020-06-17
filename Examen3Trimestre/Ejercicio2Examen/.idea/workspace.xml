@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e45b4e0-60ec-4081-9f70-4bd0fed20e0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Modelo/SelectorDeseoNiño.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strategy/Intento5Default.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicio2Examen/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicio2Examen/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicio2Examen/Modelo/Niño.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicio2Examen/Modelo/Niño.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicio2Examen/Strategy/DeseoNiño.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicio2Examen/Strategy/DeseoNiño.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factory/SelectorDeseoNiño.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modelo/Niño.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modelo/Niño.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strategy/DeseoNiño.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strategy/DeseoNiño.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Recuperacion2Trimestre/Ejercicio1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Recuperacion2Trimestre/Ejercicio1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Trimestre2/ProyectoFinalRaul/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Trimestre2/ProyectoFinalRaul/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -24,16 +14,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1224837524">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -210,7 +190,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -262,16 +241,17 @@
       <updated>1590071456207</updated>
       <workItem from="1590071459672" duration="1706000" />
       <workItem from="1590073389330" duration="4569000" />
+      <workItem from="1591370522643" duration="63000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6275000" />
+    <option name="totallyTimeSpent" value="6338000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -335,9 +315,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Strategy/SelectorDeseoNiño.java" />
